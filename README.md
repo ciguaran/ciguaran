@@ -8,5 +8,5 @@ I am a computer scientist from Argentina, looking to learn more on probabilistic
 
 📫 You can reach me at:
 ciguaran (at) dc (dot) uba (dot) ar 
-charleemos@bayes.club
+charleemos @ bayes.club
 
