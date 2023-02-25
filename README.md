@@ -6,5 +6,7 @@ I am a computer scientist from Argentina, looking to learn more on probabilistic
 - the implementation of MCMC algorithms.
 - the design of PPLs.
 
-📫 You can reach me at ciguaran (at) dc (dot) uba (dot) ar
+📫 You can reach me at:
+ciguaran (at) dc (dot) uba (dot) ar 
+charleemos@bayes.club
 
