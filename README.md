@@ -8,3 +8,5 @@ I am a computer scientist from Argentina, looking to learn more on probabilistic
 
 📫 You can reach me here: https://linktr.ee/ciguaran
 
+<a rel="me" href="https://bayes.club/@charleemos">Mastodon</a>
+
