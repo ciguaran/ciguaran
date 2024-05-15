@@ -4,4 +4,4 @@ In recent years I've specialized in computational aspects of bayesian inference.
 
 I am interested in software engineering for scientific computing, the modelling of statistical problems as programs and the implementation of inference algorithms such as MCMC and SMC.
 
-📫 You can reach me <a rel="me" href="https://bayes.club/@charleemos">here</a>
+📫 You can reach at <a rel="me" href="https://bayes.club/@charleemos">Mastodon</a>
