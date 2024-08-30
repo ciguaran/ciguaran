@@ -1,6 +1,6 @@
 # Carlos Iguaran
 
-Computer scientist (MSc, University of Buenos Aires, 2017). 8+ years experience in the tech industry working on production-level software. 
+Computer scientist (MSc, UBA - University of Buenos Aires, 2017). 8+ years experience in the tech industry working on production-level software. 
 
 In recent years I've specialized in computational aspects of bayesian inference. BlackJax contributor [BlackJax Paper](https://arxiv.org/abs/2402.10797) and [PR List](https://github.com/users/ciguaran/projects/1). 
 
