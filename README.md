@@ -1,5 +1,6 @@
 
 Computer scientist (MSc, UBA - University of Buenos Aires, 2017). 
+
 Specialist in Mathematical Statistics (UBA - University of Buenos Aires, 2025).
 
 I am interested in computational aspects of **bayesian** **inference**. In particular, the modelling of statistical problems as programs and the implementation of inference algorithms such as MCMC and SMC.
